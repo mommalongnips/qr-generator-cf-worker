@@ -59,7 +59,3 @@ This Cloudflare Worker script allows users to generate customized QR codes with 
 
    Append `?stats` to the generated URL to view visit statistics and QR code details.
 
-### Example
-
-**Generate a QR Code**
-
